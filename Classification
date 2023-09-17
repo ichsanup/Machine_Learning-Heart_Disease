@@ -1,1 +1,11 @@
-
+Data from kaggle - Heart Disease
+I m using several library :
+#Import Library 
+import pandas as pd
+import numpy as np
+from matplotlib import pyplot as plt
+%matplotlib inline
+import seaborn as sns
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+import pickle
